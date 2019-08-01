@@ -1,23 +1,35 @@
-10#星空屋
-11#手q
-12#微信
-13#腾讯视频(爱玩)
-14#心悦会员
-15#百度 (Baidu)
-16#360
-17#UC
-18#小米 (Xiaomi)
-19#世纪天成 (Tiancity)
-20#华为 (Huawei)
-21#当乐 (d.cn)
-22#豌豆荚 (WanDouJia)
-23#优酷 (Youku)
-24#N多 (nDuo.cn)
-25#木蚂蚁 (MuMaYi)
-26#OPPO
-27#Vivo
-28#联想 (Lenovo)
-29#酷派 (CoolPad)
-30#金立 (GioNEE)
-31#4399
-
+10#星空屋 (XK5)
+11#腾讯应用宝 (Tencent My App)
+12#手Q (QQ)
+13#微信 (Wechat)
+14#腾讯视频(爱玩) (Tencent Video)
+15#心悦会员 (Tencent SVIP)
+40#华为应用市场 (Huawei App Market)
+41#小米应用商店 (MIUI App Store)
+42#OPPO软件商店 (Oppo Software Store)
+43#VIVO应用商店 (VIVO App Store)
+44#珠海市魅族科技有限公司 (Meizu Flyme)
+45#酷派应用商店 (Coolpad)
+46#乐商店 (Lenovo Le Store)
+47#三星应用商店 (Samsung App Store)
+48#中兴应用商店 (ZTE App Store)
+61#MM商场 (China Mobile MM Store)
+61#中国联通沃商店 (China Unicom Wo Store)
+62#中国电信天翼空间 (China Telecom 189 Store)
+70#百度手机助手 (Baidu Mobile Assistant)
+71#360手机助手 (360 Mobile Assistant)
+72#PP助手 (PP Assistant)
+73#安智市场 (Anzhi Market)
+74#搜狗手机助手 (Sogou Mobile Assistant)
+75#豌豆荚 (Wandoujia)
+76#安卓市场 (HiMarket)
+77#应用汇 (AppChina)
+78#91手机助手 (91 Assistant)
+79#酷市场 (Cool Market)
+80#谷歌应用商店 (Google Play)
+81#手机乐园 (Shouji)
+82#历趣市场 (Liqu Market)
+83#天天应用市场 (Daily Application Market)
+84#免商店 (Snail Games)
+85#金立软件商店 (Gionee Software Store)
+86#奇兔市场 (7to)

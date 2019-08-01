@@ -20,7 +20,7 @@ android {
         //指定渠道文件
 //        channelFile = file("/Users/leon/Downloads/testReChannel.txt")
 //        baseDebugApk = 已有Debug APK
-        baseReleaseApk = new File(project.rootDir, "extraApk/stove-release.apk")
+        baseReleaseApk = new File(project.rootDir, "extraApk/app-release.apk")
         //默认为new File(project.buildDir, "rebuildChannel/debug")
 //        debugOutputDir = Debug渠道包输出目录
         //默认为new File(project.buildDir, "rebuildChannel/release")

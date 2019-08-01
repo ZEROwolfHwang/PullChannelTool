@@ -1,15 +1,23 @@
-Google_Market
-Hiapk_Market
-Yingyonghui_Market
-ali_market
-Xiaomi_Market
-Yingyongbao_Market
-Samsung_Market
-OPPO_Market
-Huawei_Market
-amazon_market
-Meizu_Market#魅族市场
-3G_market#3G安卓市场
-WanDouJia_Parter#豌豆荚
-Baidu_Market#百度应用中心
-360_Market#360手机助手
+10#星空屋
+11#手q
+12#微信
+13#腾讯视频(爱玩)
+14#心悦会员
+15#百度 (Baidu)
+16#360
+17#UC
+18#小米 (Xiaomi)
+19#世纪天成 (Tiancity)
+20#华为 (Huawei)
+21#当乐 (d.cn)
+22#豌豆荚 (WanDouJia)
+23#优酷 (Youku)
+24#N多 (nDuo.cn)
+25#木蚂蚁 (MuMaYi)
+26#OPPO
+27#Vivo
+28#联想 (Lenovo)
+29#酷派 (CoolPad)
+30#金立 (GioNEE)
+31#4399
+
